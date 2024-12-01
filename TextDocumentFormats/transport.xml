@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transport>
     <vehicle type="car">
-        <name>Fiat Panda</name>
+        <name>Ford Kuga</name>
         <capacity>5</capacity>
-        <speed unit="km/h">100</speed>
+        <speed unit="km/h">260</speed>
         <usage>Daily commute</usage>
     </vehicle>
     <vehicle type="bicycle">
-        <name>Mtb Kross Level Limited</name>
+        <name>ROCKRIDER Rower Górski Mtb</name>
         <capacity>1</capacity>
         <speed unit="km/h">25</speed>
         <usage>Hobby</usage>
